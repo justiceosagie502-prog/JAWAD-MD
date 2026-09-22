@@ -8,7 +8,7 @@
     "node": ">=20.0.0"
   },
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name JAWAD-MD",
+    "start": "node index.js",
     "stop": "pm2 stop JAWAD-MD",
     "restart": "pm2 restart JAWAD-MD"
   },
