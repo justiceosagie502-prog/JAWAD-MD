@@ -35,7 +35,7 @@ BOT_NAME: process.env.BOT_NAME || "JAY-JAY-BOT", //  don't change
 BOT_PIC: process.env.BOT_PIC || "https://files.catbox.moe/pf270b.jpg", //  don't change 
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
 AUTO_BIO: process.env.AUTO_BIO || "false",
-AUTO_BIO_QUOTE: process.env.AUTO_BIO_QUOTE || "i am jawad md",
+AUTO_BIO_QUOTE: process.env.AUTO_BIO_QUOTE || "i am Jay Jay BOT 😜",
 CHAT_BOT: process.env.CHAT_BOT || "false", // Put value to true to enablle for all chats only or inbox to ebanle in pm chats only or groups to enable in groups only else false
 WELCOME: process.env.WELCOME || "false",
 //not working for the moment do don't on it
