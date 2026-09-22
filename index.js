@@ -1,3 +1,4 @@
+require('http').createServer((_,r)=>r.end('JAWAD-MD ALIVE')).listen(process.env.PORT||10000, '0.0.0.0');
 const { default: makeWASocket, useMultiFileAuthState, DisconnectReason, fetchLatestBaileysVersion, makeCacheableSignalKeyStore } = require("@whiskeysockets/baileys");
 const { Boom } = require("@hapi/boom");
 const fs = require("fs");
