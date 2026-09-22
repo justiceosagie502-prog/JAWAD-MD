@@ -19,8 +19,8 @@ AUTO_LIKE_EMOJIS: process.env.AUTO_LIKE_EMOJIS || "💛,❤️,💜,🤍,💙", 
 AUTO_REPLY_STATUS: process.env.AUTO_REPLY_STATUS || "false",
 STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "✅️ Status Viewed By JAWAD MD", // // Input Yours custom...
 MODE: process.env.MODE || "public", // Put private or public or inbox or groups
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923427582273", // Only 1 owner Number Here, others Add to sudo numbers...
-OWNER_NAME: process.env.OWNER_NAME || "JawadTech", // Input Yours custom...(Maintain font for Flow)
+OWNER_NUMBER: process.env.OWNER_NUMBER || "jay jay removed it", // Only 1 owner Number Here, others Add to sudo numbers...
+OWNER_NAME: process.env.OWNER_NAME || "Jay Jay", // Input Yours custom...(Maintain font for Flow)
 PACK_AUTHOR: process.env.PACK_AUTHOR || "🩵", // Added // Input Yours custom...
 PACK_NAME: process.env.PACK_NAME || "💙", // Added // Input Yours custom...
 PREFIX: process.env.PREFIX || ".",
@@ -31,7 +31,7 @@ ANTIBAD: process.env.ANTIBAD || "false",
 BAD_WORDS: process.env.BAD_WORDS || "null, pm, dm, idiot", // Add Yours Separated by Comma(will be deleted if ANTIBAD is set to true)
 ANTICALL_MSG: process.env.ANTICALL_MSG || "*_📞 Auto Call Reject Mode Active. 📵 No Calls Allowed!_*",
 AUTO_REACT: process.env.AUTO_REACT || "false",
-BOT_NAME: process.env.BOT_NAME || "JAWAD-MD", //  don't change 
+BOT_NAME: process.env.BOT_NAME || "JAY-JAY-BOT", //  don't change 
 BOT_PIC: process.env.BOT_PIC || "https://files.catbox.moe/pf270b.jpg", //  don't change 
 AUTO_AUDIO: process.env.AUTO_AUDIO || "false",
 AUTO_BIO: process.env.AUTO_BIO || "false",
